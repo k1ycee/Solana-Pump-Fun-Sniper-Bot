@@ -1,6 +1,6 @@
-## SIFPUN: Solana Pump Fun Sniper Bot – Fast, Free & Open Source Automated Trading Bot (Updated December 2024)
+## SCRUVA: Solana Pump Fun Sniper Bot – Fast, Free & Open Source Automated Trading Bot (Updated December 2024)
 
-SIFPUN is the ultimate Pump Fun Sniper Bot for automated trading on Pump.fun tokens. Designed to excel on the Solana blockchain, SIFPUN detects new liquidity pools, executes trades with precision, and optimizes profits using customizable strategies.
+SCRUVA is the ultimate Pump Fun Sniper Bot for automated trading on Pump.fun tokens. Designed to excel on the Solana blockchain, SCRUVA detects new liquidity pools, executes trades with precision, and optimizes profits using customizable strategies.
 
 ![.](logo.png)
 
@@ -12,9 +12,9 @@ SIFPUN is the ultimate Pump Fun Sniper Bot for automated trading on Pump.fun tok
 ---
 
 
-## Why Choose SIFPUN Pump Fun Sniper Bot?
+## Why Choose SCRUVA Pump Fun Sniper Bot?
 
-**The Original Pump Fun Sniper:** SIFPUN is the ONLY Orginal Bot with low quality Imitators. SIFPUN is the Original bot for Pump.fun tokens, designed for unmatched speed, reliability, and profitability. Beware of imitators offering unverified tools with slower performance.
+**The Original Pump Fun Sniper:** SCRUVA is the ONLY Orginal Bot with low quality Imitators. SCRUVA is the Original bot for Pump.fun tokens, designed for unmatched speed, reliability, and profitability. Beware of imitators offering unverified tools with slower performance.
 
 **Lightning-Fast Execution**: Outperform competitors with advanced liquidity pool detection and trade execution.
 
@@ -29,7 +29,7 @@ SIFPUN is the ultimate Pump Fun Sniper Bot for automated trading on Pump.fun tok
 **Community-Driven Development**: An open-source model ensures transparency, regular updates, and ongoing improvements from the community.
 
 
-SIFPUN is optimized to reduce risks while helping traders capitalize on Pump.fun token opportunities.
+SCRUVA is optimized to reduce risks while helping traders capitalize on Pump.fun token opportunities.
 
 
 ![](ui.png)
@@ -100,7 +100,7 @@ Your feedback, contributions, and testing are invaluable to improving Solana tra
 ## 2. Steps to Install
 
 1. Clone the repository:
-```git clone https://github.com/SIFPUN/Solana-Pump-Fun-Sniper-Bot.git```
+```git clone https://github.com/SCRUVA/Solana-Pump-Fun-Sniper-Bot.git```
 
 
 2. Navigate to the bot directory:
@@ -142,13 +142,13 @@ ctrl + c
 
 ## How to Contribute
 
-SIFPUN thrives on community collaboration. Here’s how you can help:
+SCRUVA thrives on community collaboration. Here’s how you can help:
 
 Report Issues: Found a bug or have suggestions? Share them in the issues tab.
 
-Submit Code: Developers can fork the repository and enhance SIFPUN through pull requests.
+Submit Code: Developers can fork the repository and enhance SCRUVA through pull requests.
 
-Spread the Word: Share SIFPUN with fellow traders and developers to grow the community.
+Spread the Word: Share SCRUVA with fellow traders and developers to grow the community.
 
 
 Every contribution helps improve Solana automated trading tools.
@@ -165,4 +165,4 @@ Solana Pump Fun Sniper | Pump Fun Trading Bot | Automated Token Sniper | Solana 
 
 Disclaimer
 
-Cryptocurrency trading involves significant risk. Use SIFPUN responsibly and only trade what you can afford to lose. This bot is provided as-is, with no guarantees of profitability. Always conduct your own research before trading.
+Cryptocurrency trading involves significant risk. Use SCRUVA responsibly and only trade what you can afford to lose. This bot is provided as-is, with no guarantees of profitability. Always conduct your own research before trading.
