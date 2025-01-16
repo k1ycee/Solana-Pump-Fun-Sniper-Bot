@@ -100,7 +100,7 @@ Your feedback, contributions, and testing are invaluable to improving Solana tra
 ## 2. Steps to Install
 
 1. Clone the repository:
-```git clone https://github.com/SCRUVA/Solana-Pump-Fun-Sniper-Bot.git```
+```git clone https://github.com/ScruvaLabs/Solana-Pump-Fun-Sniper-Bot```
 
 
 2. Navigate to the bot directory:
