@@ -121,10 +121,10 @@ Your feedback, contributions, and testing are invaluable to improving Solana tra
 
 6. Enjoy Profits
 
-
+### Note: This project requires node 16 and above to run properly
 ---
 
-
+ 
 ## Main Commands
 
 **Start Trading:**
